@@ -61,7 +61,7 @@ class HUD:
         instructions = [
             "Instrucciones:",
             "Presiona X para atacar",
-            "Deja oprimido X para atacr continuamente",
+            "Deja oprimido X para atacar continuamente",
             "Presiona SPACE para saltar",
             "Presiona SPACE dos veces para doble salto",
             "Usa las flechas del teclado para moverte",
