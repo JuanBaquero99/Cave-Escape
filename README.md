@@ -29,7 +29,7 @@ git clone https://github.com/JuanBaquero99/Cave-Escape.git
 ```
 Navega al directorio del proyecto:
 ```
-cd nombre-del-repositorio
+cd Cave-Escape
 ```
 Ejecuta el juego
 ```
