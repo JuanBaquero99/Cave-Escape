@@ -50,3 +50,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 
 🤝 ¡Diviértete jugando!
 Estamos emocionados de que formes parte de esta aventura. ¡Disfruta y no olvides compartir tus experiencias con tus amigos!
+
+## 🎮 Demo 
+![Cave Escape](https://github.com/user-attachments/assets/9464e527-ecc8-4e16-8591-43fca4cab395)
+
